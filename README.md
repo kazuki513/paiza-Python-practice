@@ -45,7 +45,7 @@
 2025年8月14日
 
 ## Zenn記事
-[Zenn初投稿はこちら][]
+[Zenn初投稿はこちら][https://zenn.dev/articles/python-paiza-log/edit]
 
 
 
